@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\APSBootcampDayOne.props" />
+</Project>

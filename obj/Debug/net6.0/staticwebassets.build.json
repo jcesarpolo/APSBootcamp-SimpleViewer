@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "qt1R3rgQbAojRuww4IQODKuPf80NEvJqmLfuqhtYrjU=",
+  "Source": "APSBootcampDayOne",
+  "BasePath": "_content/APSBootcampDayOne",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "APSBootcampDayOne\\wwwroot",
+      "Source": "APSBootcampDayOne",
+      "ContentRoot": "D:\\Repos\\APSBootcampDayOne\\wwwroot\\",
+      "BasePath": "_content/APSBootcampDayOne",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Repos\\APSBootcampDayOne\\wwwroot\\index.html",
+      "SourceId": "APSBootcampDayOne",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repos\\APSBootcampDayOne\\wwwroot\\",
+      "BasePath": "_content/APSBootcampDayOne",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\Repos\\APSBootcampDayOne\\wwwroot\\main.css",
+      "SourceId": "APSBootcampDayOne",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repos\\APSBootcampDayOne\\wwwroot\\",
+      "BasePath": "_content/APSBootcampDayOne",
+      "RelativePath": "main.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.css"
+    },
+    {
+      "Identity": "D:\\Repos\\APSBootcampDayOne\\wwwroot\\main.js",
+      "SourceId": "APSBootcampDayOne",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repos\\APSBootcampDayOne\\wwwroot\\",
+      "BasePath": "_content/APSBootcampDayOne",
+      "RelativePath": "main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.js"
+    },
+    {
+      "Identity": "D:\\Repos\\APSBootcampDayOne\\wwwroot\\viewer.js",
+      "SourceId": "APSBootcampDayOne",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repos\\APSBootcampDayOne\\wwwroot\\",
+      "BasePath": "_content/APSBootcampDayOne",
+      "RelativePath": "viewer.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\viewer.js"
+    }
+  ]
+}

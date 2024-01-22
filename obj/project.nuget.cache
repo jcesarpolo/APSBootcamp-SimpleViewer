@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "b2bY2Qady9+4lMZT5Jwhi4h8QkRM3CLTYnDa+02hcFcmc5H3/S43+wAD841mSS9uIKGjvhKvbCyYu9kvdpMBqg==",
+  "success": true,
+  "projectFilePath": "D:\\Repos\\APSBootcampDayOne\\APSBootcampDayOne.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\poo\\.nuget\\packages\\autodesk.forge\\1.9.9\\autodesk.forge.1.9.9.nupkg.sha512",
+    "C:\\Users\\poo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\poo\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

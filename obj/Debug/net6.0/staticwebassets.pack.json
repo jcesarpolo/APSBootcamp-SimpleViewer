@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Repos\\APSBootcampDayOne\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Repos\\APSBootcampDayOne\\wwwroot\\main.css",
+      "PackagePath": "staticwebassets\\main.css"
+    },
+    {
+      "Id": "D:\\Repos\\APSBootcampDayOne\\wwwroot\\main.js",
+      "PackagePath": "staticwebassets\\main.js"
+    },
+    {
+      "Id": "D:\\Repos\\APSBootcampDayOne\\wwwroot\\viewer.js",
+      "PackagePath": "staticwebassets\\viewer.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.APSBootcampDayOne.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.APSBootcampDayOne.props",
+      "PackagePath": "build\\APSBootcampDayOne.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.APSBootcampDayOne.props",
+      "PackagePath": "buildMultiTargeting\\APSBootcampDayOne.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.APSBootcampDayOne.props",
+      "PackagePath": "buildTransitive\\APSBootcampDayOne.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
